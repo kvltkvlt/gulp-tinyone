@@ -1,21 +1,21 @@
 {
-  "name": "flexitgg-frontend",
+  "name": "gulp-tinyone",
   "version": "1.0.0",
-  "description": "Frontend part for FlexitGG",
+  "description": "Gulp Tinyone",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kvltkvlt/front_mine.git"
+    "url": "git+https://github.com/kvltkvlt/gulp-tinyone.git"
   },
   "author": "kvlt",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kvltkvlt/front_mine/issues"
+    "url": "https://github.com/kvltkvlt/gulp-tinyone/issues"
   },
-  "homepage": "https://github.com/kvltkvlt/front_mine#readme",
+  "homepage": "https://github.com/kvltkvlt/gulp-tinyone#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-preset-env": "^1.6.0",
